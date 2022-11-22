@@ -21,7 +21,7 @@ class WifuPluginInstance(PluginInstance):
 
 bot = WifuPluginInstance(
     name='每日随机助理',
-    version='1.1',
+    version='1.2',
     plugin_id='amiyabot-arknights-hsyhhssyy-wifu',
     plugin_type='',
     description='每日生成一个随机助理',
